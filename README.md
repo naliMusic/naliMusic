@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Minh aka nali M @naliMusic
 ```
 😄 Pronouns: she/her
+---------------------------------------------------------------------------------
+🔭 I’m currently working on:           Programming Audio Plugins
+🌱 I’m currently learning:             Game Audio & Spatial Audio/AR/VR
+👯 I’m looking to collaborate on:      Any interesting projects in AUDIO / MUSIC 
+---------------------------------------------------------------------------------
 📫 How to reach me: nali . minh . ng  @  gmail . com 
 ```
 <!--
