@@ -12,11 +12,11 @@
 <table>
  <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hieulem&show_icons=true"
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=naliMusic&show_icons=true"
         alt="sagniklp" />
     </td>
     <td style="padding: 15px 0px 0px 0px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieulem&show_icons=true&layout=compact"
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naliMusic&show_icons=true&layout=compact"
         alt="sagniklp" />
     </td>
  </tr>
