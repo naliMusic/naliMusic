@@ -8,6 +8,20 @@
 ---------------------------------------------------------------------------------
 📫 How to reach me: nali . minh . ng  @  gmail . com 
 ```
+<br>
+<table>
+ <tr>
+    <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hieulem&show_icons=true"
+        alt="sagniklp" />
+    </td>
+    <td style="padding: 15px 0px 0px 0px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieulem&show_icons=true&layout=compact"
+        alt="sagniklp" />
+    </td>
+ </tr>
+</table>
+
 <!--
 ---------------------------------------------------------------------------------
 🔭 I’m currently working on:           Programming Audio Plugins
